@@ -6,6 +6,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Pour qui : Famille
 - Âge minimum : ...
+- Niveau d'expérience : ...
 - Ce qui est important pour eux : Se sentir intelligent, interagir entre eux, solutions alternatives "cachées"
 
 ## La conception
@@ -15,8 +16,8 @@ Projet conçu en équipe avec : Rémi, Federer
 - Temps : 1h15
 - Le nombre d'énigmes : 7
 - Le type d'énigmes : Déduction et observation
-- Les besoins matériels : ...
-- Les besoins technologiques : ...
+- Les besoins matériels : Tapis, lampes, lustre, meubles, fauteuils, faux livres, escaliers, portes
+- Les besoins technologiques : Télévision, projecteurs, électricité, dispositifs de son, horloge, détecteurs, machine à fumée
 - Les besoins humains : ...
 - Le plan des salles (croquis) :
 
@@ -25,7 +26,7 @@ Projet conçu en équipe avec : Rémi, Federer
 ## Les éléments importants
 
 - Engagement sensoriel : Vue, ouïe, toucher
-- Conception spatiale : ...
+- Conception spatiale : Les joueurs débloquent et découvrent différentes pièces d'un manoir à travers des énigmes.
 - Rétroaction : ...
 - Technologie invisible : ...
 
