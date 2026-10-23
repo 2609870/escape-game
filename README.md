@@ -1,10 +1,10 @@
 # Titre de l'escape game
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : Rémi, Federer
 
 ## Le public cible
 
-- Pour qui : ...
+- Pour qui : Famille
 - Ce qui est important pour eux : ...
 
 ## La conception
