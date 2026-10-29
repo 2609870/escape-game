@@ -5,7 +5,7 @@ Projet conçu en équipe avec : Rémi, Federer
 ## Le public cible
 
 - Pour qui : Famille
-- Âge minimum : ...
+- Âge minimum : 7 ans
 - Niveau d'expérience : Intermédiaire
 - Ce qui est important pour eux : Se sentir intelligent, interagir entre eux, solutions alternatives "cachées"
 
