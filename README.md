@@ -32,8 +32,8 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## Les risques et la sécurité
 
-- Risque 1 : ... (solution : ...)
-- Risque 2 : ... (solution : ...)
+- Risque 1 : Quelqu'un se cogne (solution : Utiliser des meubles avec des coins arrondis)
+- Risque 2 : Quelqu'un est aveuglé par la lumière (solution : Faire les flashs de lumière avec une lumière pas trop forte)
 
 ## La promotion
 
