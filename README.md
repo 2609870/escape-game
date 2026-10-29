@@ -27,7 +27,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Engagement sensoriel : Vue, ouïe, toucher
 - Conception spatiale : Les joueurs débloquent et découvrent différentes pièces d'un manoir à travers des énigmes.
-- Rétroaction : ...
+- Rétroaction : Effets sonores (spécifier),
 - Technologie invisible : ...
 
 ## Les risques et la sécurité
