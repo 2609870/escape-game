@@ -17,7 +17,7 @@ Projet conçu en équipe avec : Rémi, Federer
 - Le nombre d'énigmes : 7
 - Le type d'énigmes : Déduction et observation
 - Les besoins matériels : Tapis, lampes, lustre, meubles, fauteuils, faux livres, escaliers, portes
-- Les besoins technologiques : Télévision, projecteurs, électricité, dispositifs de son, horloge, détecteurs, machine à fumée
+- Les besoins technologiques : Télévision, projecteurs, électricité, dispositifs de son, horloge, détecteurs, machine à fumée, projecteurs
 - Les besoins humains : ...
 - Le plan des salles (croquis) :
 
@@ -27,7 +27,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Engagement sensoriel : Vue, ouïe, toucher
 - Conception spatiale : Les joueurs débloquent et découvrent différentes pièces d'un manoir à travers des énigmes.
-- Rétroaction : Effets sonores (spécifier),
+- Rétroaction : Effets sonores (spécifier), fantôme projeté sur un mur quand on l'attrape  
 - Technologie invisible : ...
 
 ## Les risques et la sécurité
