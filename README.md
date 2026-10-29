@@ -12,7 +12,7 @@ Projet conçu en équipe avec : Rémi, Federer
 ## La conception
 
 - Thème : Luigi's Mansion
-- L'intrigue : ...
+- L'intrigue : Le professeur Karl Tastroff a engagé des gens pour chasser les fantôme du manoir dont il a récemment fait l'acquisition en les traquant de pièce en pièce.
 - Temps : 1h15
 - Le nombre d'énigmes : 7
 - Le type d'énigmes : Déduction et observation
