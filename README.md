@@ -37,8 +37,8 @@ Projet conçu en équipe avec : Rémi, Federer
 
 ## La promotion
 
-- Stratégie 1 : ... (pourquoi elle rejoint le public cible)
-- Stratégie 2 : ... (pourquoi elle rejoint le public cible)
+- Stratégie 1 : Publicité (pourquoi elle rejoint le public cible)
+- Stratégie 2 : Promotion directe (pourquoi elle rejoint le public cible)
 
 ## Les ressources
 
