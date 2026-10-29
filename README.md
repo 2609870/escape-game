@@ -6,7 +6,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Pour qui : Famille
 - Âge minimum : ...
-- Niveau d'expérience : ...
+- Niveau d'expérience : Intermédiaire
 - Ce qui est important pour eux : Se sentir intelligent, interagir entre eux, solutions alternatives "cachées"
 
 ## La conception
