@@ -27,7 +27,7 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Engagement sensoriel : Vue, ouïe, toucher
 - Conception spatiale : Les joueurs débloquent et découvrent différentes pièces d'un manoir à travers des énigmes.
-- Rétroaction : Effets sonores (spécifier), fantôme projeté sur un mur quand on l'attrape  
+- Rétroaction : Effets sonores quand on obtient une clé, aspire ou attrape un fantôme, fantôme projeté sur un mur quand on l'aspire,  aspirateur qui vibre légèrement quand on aspire un fantôme
 - Technologie invisible : ...
 
 ## Les risques et la sécurité
