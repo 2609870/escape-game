@@ -18,7 +18,7 @@ Projet conçu en équipe avec : Rémi, Federer
 - Le type d'énigmes : Déduction et observation
 - Les besoins matériels : Tapis, lampes, lustre, meubles, fauteuils, faux livres, escaliers, portes
 - Les besoins technologiques : Télévision, projecteurs, électricité, dispositifs de son, horloge, détecteurs, machine à fumée, projecteurs
-- Les besoins humains : ...
+- Les besoins humains : Construction, électricité, entretien
 - Le plan des salles (croquis) :
 
 ![Plan des salles](plan-salles.jpg)
