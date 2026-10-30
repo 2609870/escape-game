@@ -1,4 +1,4 @@
-# Titre de l'escape game
+# Luigi's escape
 
 Projet conçu en équipe avec : Rémi, Federer
 
